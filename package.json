@@ -1,0 +1,31 @@
+{
+  "name": "react-crud-app-backened",
+  "version": "1.0.0",
+  "description": "json server for react crud app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redoc51624/React-crud-app-backened.git"
+  },
+  "keywords": [
+    "json",
+    "server",
+    "glitch",
+    "react",
+    "crud",
+    "app"
+  ],
+  "author": "vikas",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  },
+  "bugs": {
+    "url": "https://github.com/redoc51624/React-crud-app-backened/issues"
+  },
+  "homepage": "https://github.com/redoc51624/React-crud-app-backened#readme"
+}

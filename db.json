@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "vicky",
+      "username": "vic123",
+      "email": "vicky@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "808080800",
+      "website": "vicky.com",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "name": "Priti",
+      "username": "archu",
+      "email": "archu@gmail.com",
+      "phone": "123123132132",
+      "website": "archu.com",
+      "id": 5
+    },
+    {
+      "name": "chiku",
+      "username": "chiku123",
+      "email": "chiku@gmail.com",
+      "phone": "123456789",
+      "website": "chiku.com",
+      "id": 6
+    },
+    {
+      "name": "test 123",
+      "username": "test@123",
+      "email": "test123@gmail.com",
+      "phone": "12465789",
+      "website": "hjabsdc.com",
+      "id": 7
+    }
+  ]
+}
